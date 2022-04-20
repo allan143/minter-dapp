@@ -1,5 +1,5 @@
-const contractAddress = "0x3732B64d44a7594E6FDd848A39b28F29048a9169"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x59D3D88A4A8561334B84Bc6d0332e88B0b76d1C9"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the STARSIER CLUB";
 const welcome_h2 = "Connect to MetaMask to Get Started";
@@ -19,7 +19,7 @@ const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
 const button_presale_already_minted = "Join The Community";
 const button_public_mint = "Mint Your NFT";
-const mint_failed = "Minting failed. 😢 Please try again.";
+const mint_failed = "Minting failed. Please try again.";
 
 const abi = [
   {
