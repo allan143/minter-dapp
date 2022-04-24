@@ -1,4 +1,4 @@
-const contractAddress = "0xe05336Af63E93260aC5b741236b3D95bb5eBd4A4"; //Replace with your own contract address
+const contractAddress = "0xB7bc918D86D7d79ce1436235BEd8b098a3C07120"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the STARSIER CLUB NFT";
